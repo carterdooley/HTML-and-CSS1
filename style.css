@@ -1,1 +1,21 @@
-sd
+h1 {
+    font-family:sans-serif;
+    background-color: rgb(113, 113, 226);
+    position: center;
+}
+
+h2 {
+    background-color: turquoise;
+}
+
+h3 {
+    background-color: rgb(113, 113, 226);
+}
+
+p {
+    font-size: 15pt;
+}
+
+button{
+    color: tomato;
+}
